@@ -1,0 +1,6 @@
+[2026-06-24T09:54:29.320Z] INFO: Starting SignUp
+[2026-06-24T09:54:29.329Z] STEP: Setting up URL
+[2026-06-24T09:54:31.985Z] STEP: Creating an Account
+[2026-06-24T09:54:46.949Z] STEP: Logging out from the account
+[2026-06-24T09:54:58.433Z] STEP: Logging in with the created account - After Logout
+[2026-06-24T09:54:59.002Z] INFO: SignUp_Logout_Login_Scenario completed successfully
